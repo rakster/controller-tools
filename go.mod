@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	github.com/fatih/color v1.7.0
-	github.com/gobuffalo/flect v0.1.5
+	github.com/gobuffalo/flect v0.2.1
 	github.com/gogo/protobuf v1.2.1 // indirect
 	github.com/google/go-cmp v0.3.0
 	github.com/google/gofuzz v0.0.0-20170612174753-24818f796faf // indirect

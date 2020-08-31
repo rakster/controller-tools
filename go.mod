@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	github.com/fatih/color v1.7.0
-	github.com/gobuffalo/flect v0.1.5
+	github.com/gobuffalo/flect v0.2.2
 	github.com/gogo/protobuf v1.2.1 // indirect
 	github.com/google/go-cmp v0.3.0
 	github.com/google/gofuzz v0.0.0-20170612174753-24818f796faf // indirect
@@ -24,7 +24,6 @@ require (
 	golang.org/x/tools v0.0.0-20190501045030-23463209683d
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	gopkg.in/yaml.v2 v2.2.2 // indirect
 	k8s.io/api v0.0.0-20190409021203-6e4e0e4f393b
 	k8s.io/apiextensions-apiserver v0.0.0-20190409022649-727a075fdec8
 	k8s.io/apimachinery v0.0.0-20190404173353-6a84e37a896d
